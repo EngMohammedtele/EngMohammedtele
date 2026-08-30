@@ -1,3 +1,8 @@
+
+<p align="center">
+  <img src="omani-code-battle.gif" width="100%" />
+</p>
+
 # Hi, I'm Mohammed 👋
 
 ### Electronics & Telecommunications Engineer | Java Backend Developer
