@@ -20,4 +20,7 @@ I enjoy building practical software solutions and continuously improving my skil
 
 ## 🛠 Tech Stack
 
-Java • Spring Boot • OOP • REST API • Git • GitHub • IntelliJ IDEA • Postman • Maven
+<p align="center">
+  <img src="./ChatGPT Image 30 أغسطس 2026، 09_33_18 م.png" width="100%" />
+</p>
+
