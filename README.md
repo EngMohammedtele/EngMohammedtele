@@ -1,9 +1,10 @@
+ؤ
 <p align="center">
-  <img src="./ChatGPT Image 30 أغسطس 2026، 09_33_18 م.png" width="100%" />
+  <img src="./hi_im_mohammed_alshandoodi.gif" width="100%" />
 </p>
 
 <p align="center">
-  <img src="./hi_im_mohammed_alshandoodi.gif" width="100%" />
+  <img src="./ChatGPT Image 30 أغسطس 2026، 09_33_18 م.png" width="100%" />
 </p>
 
 
