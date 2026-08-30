@@ -6,7 +6,6 @@
   <img src="./hi_im_mohammed_alshandoodi.gif" width="100%" />
 </p>
 
-### Electronics & Telecommunications Engineer | Java Backend Developer
 
 I enjoy building practical software solutions and continuously improving my skills in backend development.
 
