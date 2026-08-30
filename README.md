@@ -21,6 +21,5 @@ I enjoy building practical software solutions and continuously improving my skil
 ## 🛠 Tech Stack
 
 <p align="center">
-  <img src="./ChatGPT Image 30 أغسطس 2026، 09_33_18 م.png" width="100%" />
+  <img src="./legendary_java_tech_stack.gif" width="100%" />
 </p>
-
