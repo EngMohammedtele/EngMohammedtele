@@ -1,4 +1,3 @@
-ؤ
 <p align="center">
   <img src="./hi_im_mohammed_alshandoodi.gif" width="100%" />
 </p>
