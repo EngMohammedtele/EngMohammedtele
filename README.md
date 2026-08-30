@@ -1,7 +1,10 @@
 <p align="center">
   <img src="./ChatGPT Image 30 أغسطس 2026، 09_33_18 م.png" width="100%" />
 </p>
-# Hi, I'm Mohammed 👋
+
+<p align="center">
+  <img src="./hi_im_mohammed_alshandoodi.gif" width="100%" />
+</p>
 
 ### Electronics & Telecommunications Engineer | Java Backend Developer
 
