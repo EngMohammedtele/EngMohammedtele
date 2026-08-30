@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Mohammed 👋
 
-<!--
-**EngMohammedtele/EngMohammedtele** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Electronics & Telecommunications Engineer | Java Backend Developer
 
-Here are some ideas to get you started:
+I enjoy building practical software solutions and continuously improving my skills in backend development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 🎓 Electronics & Telecommunications Engineering graduate
+- 💻 Learning and building with Java
+- 🌱 Currently developing my Backend Development skills
+- 🔧 Interested in APIs, Spring Boot and Software Engineering
+- 📍 Oman
+
+## 🛠 Tech Stack
+
+Java • Spring Boot • OOP • REST API • Git • GitHub • IntelliJ IDEA • Postman • Maven
